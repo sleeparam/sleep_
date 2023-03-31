@@ -34,7 +34,7 @@ public class Test001 : MonoBehaviour
             sum += i;
             Debug.Log(sum);
 
-            for (int i = 0; i < 10; i++)
+            for (i = 0; i < 10; i++)
             {
                 for (int j = 0; j < 10; j++)
                 {
