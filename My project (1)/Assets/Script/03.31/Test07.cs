@@ -14,7 +14,7 @@ public class Player
 
     public void Damage(int damage)
     {
-        int -= Damage;
+        //int -= Damage;
         Debug.Log("데미지를 잃었다.");
     }
 
